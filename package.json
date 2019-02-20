@@ -1,0 +1,25 @@
+{
+  "name": "files-counter-bucket",
+  "version": "1.0.0",
+  "description": "Contatador de arquivos no Bucket",
+  "main": "quantidade-arquivos-bucket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersonrodrigues92/files-counter-bucket.git"
+  },
+  "keywords": [
+    "Contato",
+    "Bucket",
+    "S3",
+    "AWS"
+  ],
+  "author": "Jefferson Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffersonrodrigues92/files-counter-bucket/issues"
+  },
+  "homepage": "https://github.com/jeffersonrodrigues92/files-counter-bucket#readme"
+}
